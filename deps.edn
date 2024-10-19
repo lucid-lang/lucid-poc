@@ -1,0 +1,5 @@
+{:paths ["src"]
+  :deps {}
+  :aliases
+  {:run
+   {:main-opts ["-m" "simple-interpreter.core"]}}}
